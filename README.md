@@ -1,6 +1,3 @@
-# hoja_de_trabajo_git
- Hoja de trabajo trabajada el 28/02/2024 en el curso de Introducción a la Ingeniería de Informática y Sistemas de la Universidad Rafael Landivar
-
 # The Office is my favorite TV Show :luggage:
 
 <img src='https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif?cid=790b7611gu4qmdfxtc9e8kdvqhj8fo43jpzj1bqknltnya61&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='gif' height='200'>
